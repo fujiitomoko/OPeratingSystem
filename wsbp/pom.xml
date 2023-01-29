@@ -14,8 +14,6 @@
 	<name>wsbp</name>
 	<description>Practical project for Wicket with Spring-Boot</description>
 
-	<packaging>war</packaging>
-
 	<properties>
 		<java.version>17</java.version>
 		<!-- プロジェクトでは基本的にUTF-8を使う -->
